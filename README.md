@@ -1,4 +1,4 @@
-ATMONTO2AIRM | A Reference Alignment Between the NASA ATM Ontolgy and AIRM-O
+ATMONTO2AIRM | Reference Alignment Between the NASA ATM Ontolgy and AIRM-O
 ===
 
 Please cite this alignment using the following format:
