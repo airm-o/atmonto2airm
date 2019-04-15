@@ -1,7 +1,7 @@
 ATMONTO2AIRM | Reference Alignment Between the NASA ATM Ontolgy and AIRM-O
 ===
 
-We provide two reference alignment in XML format (http://alignapi.gforge.inria.fr/format.html):
+We provide two reference alignments in XML format (http://alignapi.gforge.inria.fr/format.html) mapping the NASA Air Traffic Management Ontology (https://data.nasa.gov/ontologies/atmonto/) to AIRM-O:
 
 * **ReferenceAlignment-ATMONTO-AIRM-EQUIVALENCE.rdf**: A reference alignment with equivalence relations only.
 * **ReferenceAlignment-ATMONTO-AIRM-SUBSUMPTION.rdf**: A reference alignment with subsumption relations only.
