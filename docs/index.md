@@ -1,3 +1,3 @@
 Reference Alignment
 ==========
-[[HTML]](ReferenceAlignment-ATMONTO-AIRM-EQUIVALENCE.html)
+Equivalence relations [[RDF]](./ReferenceAlignment-ATMONTO-AIRM-EQUIVALENCE.rdf) [[HTML]](ReferenceAlignment-ATMONTO-AIRM-EQUIVALENCE.html)
