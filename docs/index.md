@@ -8,9 +8,9 @@ The provided mapping from ATMONTO to AIRM-O is separated into the following comp
 
 We challenged three complete matching systems that normally rank highly on several tracks of the OAEI campaigns on the equivalence reference alignment. We provide results in XML reference alignment format as well as in a human-readable version:
 
-* YAM++ [[XML]]() [[HTML]]()
+* YAM++ [[XML]]() [[HTML]](YAMPlusPlusAlignment.html)
 
-* LogMap [[XML]]() [[HTML]]()
+* LogMap [[XML]]() [[HTML]](LogMapAlignment.html)
 
-* AML Auto [[XML]]() [[HTML]]()
+* AML Auto [[XML]]() [[HTML]](AMLAlignment_Auto.html)
 
