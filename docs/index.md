@@ -1,6 +1,6 @@
 Reference Alignment
 ==========
-The provided mapping from ATMONTO to AIRM-O is separated into the following components:
+[ATMONTO](https://data.nasa.gov/ontologies/atmonto/) and [AIRM-O](https://w3id.org/airm-o/ontology/) are two ontologies for the Air Traffic Management (ATM) domain. Due to a number of mismatches, automated matching systems experience some difficulaties. Hence, we provide a reference mapping between these two ontologies. The provided mapping from ATMONTO to AIRM-O is separated into the following components:
 
 * Equivalence relations [[RDF/XML]](https://raw.githubusercontent.com/airm-o/atmonto2airm/master/ReferenceAlignment-ATMONTO-AIRM-EQUIVALENCE.rdf) [[HTML]](ReferenceAlignment-ATMONTO-AIRM-EQUIVALENCE.html)
 
