@@ -8,7 +8,7 @@ We provide two reference alignments in RDF/XML format (http://alignapi.gforge.in
 
 Please cite this alignment using the following format:
 
-Vennesland, A., Keller, R. M., Gringinger, E., Schuetz, C. G., Neumayr, B., Wilson, S., Gorman, J.: ATMONTO2AIRM -- A reference alignment between the NASA ATM Ontolgy and the ATM Information Reference Model Ontology v1.0, 2019. https://w3id.org/airm-o/atmonto2airm
+Vennesland, A., Keller, R. M., Gringinger, E., Schuetz, C. G., Neumayr, B., Wilson, S., Gorman, J.: ATMONTO2AIRM -- A reference alignment between the NASA ATM Ontolgy and the ATM Information Reference Model Ontology, 2019. https://w3id.org/airm-o/atmonto2airm
 
 We refer to the [GitHub page](https://airm-o.github.io/atmonto2airm/) for further information, including a human-readable representation of the reference alignment in tabular form as well as links to performance evaluation results of popular ontology matching systems.
 
